@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">My Moves</string>
+    <string name="poster_of_movie">Movie poster</string>
+    <string name="most_popular">The most popular</string>
+    <string name="top_rated">The most rated</string>
+    <string name="add_to_favourite">Added to favorites</string>
+    <string name="remove_from_favourite">Removed from favorites</string>
+    <string name="item_main">Main</string>
+    <string name="item_favourite">Favourites</string>
+    <string name="launch_trailer">Launch the trailer</string>
+    <string name="movie_name">Name:</string>
+    <string name="movie_original_name">Original name:</string>
+    <string name="movie_rating">Rating:</string>
+    <string name="movie_release_date">Release date:</string>
+    <string name="movie_description">Description:</string>
+    <string name="land_detail_description_poster">Land detail description poster</string>
+    <string name="poster_favourite">Poster favourite</string>
+    <string name="trailers_label">Trailers</string>
+    <string name="reviews">Reviews</string>
+</resources>

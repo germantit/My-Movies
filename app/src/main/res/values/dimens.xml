@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="size_of_star">60dp</dimen>
+    <dimen name="line_width">0dp</dimen>
+    <dimen name="line_height">1dp</dimen>
+    <dimen name="land_size_of_star">40dp</dimen>
+    <dimen name="land_margin_end_star">16dp</dimen>
+    <dimen name="land_margin_top_star">16dp</dimen>
+</resources>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">My Moves</string>
+    <string name="poster_of_movie">Постер к фильму</string>
+    <string name="most_popular">Самые популярные</string>
+    <string name="top_rated">Наиболее рейтинговые</string>
+    <string name="add_to_favourite">Добавленно в избранное</string>
+    <string name="remove_from_favourite">Удаленно из избранного</string>
+    <string name="item_main">Главная</string>
+    <string name="item_favourite">Избранное</string>
+    <string name="launch_trailer">Запустить трейлер</string>
+    <string name="movie_name">Название:</string>
+    <string name="movie_original_name">Оригинальное название:</string>
+    <string name="movie_rating">Рейтинг:</string>
+    <string name="movie_release_date">Дата выхода:</string>
+    <string name="movie_description">Описание:</string>
+    <string name="land_detail_description_poster">Горизонтальный постер детального описания</string>
+    <string name="poster_favourite">Изображение избранного</string>
+    <string name="trailers_label">Трейлеры</string>
+    <string name="reviews">Отзывы</string>
+</resources>
